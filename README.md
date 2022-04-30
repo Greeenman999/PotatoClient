@@ -1,3 +1,3 @@
 # PotatoClient
 
-Ein Client zum Spaß
+Ein Client zum Spaß (Fabric Mod)
